@@ -1,6 +1,6 @@
 ### Hi there, I am Andrew! 👋
 
-- 📫 How to reach me: [My Website](https://arkadyt.dev) | [My Email](mailto:github.mail.fpr@arkadyt.dev) | [My LinkedIn](https://linkedin.com/in/arkadyt) | [My Blog](https://medium.com/@iamarkadyt)
+- 📫 How to reach me: [My Website](https://arkadyt.dev) | [My Email](mailto:github.mail.fpr@arkadyt.dev) | [My LinkedIn](https://linkedin.com/in/iamarkadyt) | [My Blog](https://medium.com/@iamarkadyt)
 - ✨ I am a:
     * Full-Stack Software Developer (MongoDB/React.js/Node.js)
     * [AWS Cloud Solutions Architect](https://bit.ly/2JXw6Nr)
