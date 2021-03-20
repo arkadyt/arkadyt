@@ -1,6 +1,6 @@
 ### Hi there, I am Andrew! 👋
 
-- 📫 How to reach me: [My Website](https://arkadyt.dev) | [My Email](mailto:github.mail.fpr@arkadyt.dev) | [My LinkedIn](https://linkedin.com/in/arkadyt)
+- 📫 How to reach me: [My Website](https://arkadyt.dev) | [My Email](mailto:github.mail.fpr@arkadyt.dev) | [My LinkedIn](https://linkedin.com/in/arkadyt) | [My Blog](https://medium.com/@iamarkadyt)
 - ✨ I am a:
     * Full-Stack Software Developer (MongoDB/React.js/Node.js)
     * [AWS Cloud Solutions Architect](https://bit.ly/2JXw6Nr)
@@ -16,4 +16,4 @@
     * Cloud Infrastructure Security
     * Design of Resilient Distributed Systems
     * or Superposition Principle in Quantum Mechanics!
-- ⚡ Fun fact: I am 6'4" foot tall
+- ⚡ Fun fact: I have a twin sister!
